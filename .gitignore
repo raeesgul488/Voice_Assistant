@@ -12,3 +12,5 @@ wheels/
 .venv/
 --pycache--/
 .env.local .env .env.* !.env.example
+.env.local
+.env
